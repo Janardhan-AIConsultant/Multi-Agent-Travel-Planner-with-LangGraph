@@ -1,0 +1,17 @@
+# Secrets
+.env
+.env.*
+**/.env
+**/.env.*
+
+# Git and caches
+.git
+**/__pycache__
+
+# Environments
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
